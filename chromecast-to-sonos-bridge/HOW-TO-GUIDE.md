@@ -5,6 +5,7 @@ A step-by-step guide to stream audio from any Google Cast app to Sonos speakers 
 **Time estimate:** 1-2 hours (excluding shipping time for hardware)
 **Difficulty:** Intermediate
 **Cost:** ~EUR 53 if you already own a Raspberry Pi, Chromecast, and Sonos speakers
+**Source:** [github.com/SausageFairy/how-to-guides](https://github.com/SausageFairy/how-to-guides)
 
 ---
 
