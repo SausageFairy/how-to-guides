@@ -1,5 +1,7 @@
 # Troubleshooting Guide
 
+Common issues and solutions for the Chromecast to Sonos Bridge.
+
 ## No Audio Playing
 
 ### Check FFmpeg is running
