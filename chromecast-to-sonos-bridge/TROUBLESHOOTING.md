@@ -1,3 +1,8 @@
+> **⚠️ Deprecated.** This Pi-based setup is retired — see
+> [`infrastructure/lxc/chromecast-bridge/`](../../../lxc/chromecast-bridge/README.md)
+> (including its own Troubleshooting section) for the current setup. Kept for
+> historical reference only.
+
 # Troubleshooting Guide
 
 Common issues and solutions for the Chromecast to Sonos Bridge.

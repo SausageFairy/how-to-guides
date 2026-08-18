@@ -1,3 +1,7 @@
+> **⚠️ Deprecated.** This Pi-based setup is retired — see
+> [`infrastructure/lxc/chromecast-bridge/`](../../../lxc/chromecast-bridge/README.md)
+> for the current setup. Kept for historical reference only.
+
 # How-To Guide: Chromecast to Sonos Bridge
 
 A step-by-step guide to stream audio from any Google Cast app to Sonos speakers with near-instant latency. This guide assumes basic homelab knowledge but explains every step along the way.

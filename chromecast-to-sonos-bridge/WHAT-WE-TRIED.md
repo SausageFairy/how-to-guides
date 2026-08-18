@@ -1,3 +1,9 @@
+> **⚠️ Deprecated.** This Pi-based setup is retired — see
+> [`infrastructure/lxc/chromecast-bridge/`](../../../lxc/chromecast-bridge/README.md)
+> for the current setup. Kept for historical reference only — this remains
+> useful context for why some approaches (e.g. Snapcast/VBAN/Icecast) don't
+> work well for this use case regardless of host.
+
 # Everything We Tried (And Why It Failed)
 
 This documents the complete journey to the working solution. Useful if you're troubleshooting a similar setup or considering alternative approaches.
