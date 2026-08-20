@@ -1,7 +1,7 @@
-> **⚠️ Deprecated.** This Pi-based setup is retired — see
-> [`infrastructure/lxc/chromecast-bridge/`](../../../lxc/chromecast-bridge/README.md)
-> (including its own Troubleshooting section) for the current setup. Kept for
-> historical reference only.
+> **⚠️ Deprecated.** This Raspberry Pi-based setup has been retired in favor of
+> a version that runs on a small home server instead of a dedicated Pi. Kept
+> here for historical reference only — the fixes below are specific to the
+> Pi-based build.
 
 # Troubleshooting Guide
 

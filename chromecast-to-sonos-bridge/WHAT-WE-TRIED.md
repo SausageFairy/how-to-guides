@@ -1,8 +1,8 @@
-> **⚠️ Deprecated.** This Pi-based setup is retired — see
-> [`infrastructure/lxc/chromecast-bridge/`](../../../lxc/chromecast-bridge/README.md)
-> for the current setup. Kept for historical reference only — this remains
-> useful context for why some approaches (e.g. Snapcast/VBAN/Icecast) don't
-> work well for this use case regardless of host.
+> **⚠️ Deprecated.** This Raspberry Pi-based setup has been retired in favor of
+> a version that runs on a small home server instead of a dedicated Pi. Kept
+> here for historical reference — this remains useful context for why some
+> approaches (e.g. Snapcast/VBAN/Icecast) don't work well for this use case
+> regardless of host.
 
 # Everything We Tried (And Why It Failed)
 
