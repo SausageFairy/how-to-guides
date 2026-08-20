@@ -1,6 +1,8 @@
 > **⚠️ Deprecated.** This Pi-based setup is retired — see
-> [`infrastructure/lxc/chromecast-bridge/`](../../../lxc/chromecast-bridge/README.md)
-> for the current setup. Kept for historical reference only.
+> [`infrastructure/lxc/chromecast-bridge/docs/HOW-TO-GUIDE.md`](../../../lxc/chromecast-bridge/docs/HOW-TO-GUIDE.md)
+> for the current step-by-step guide (or
+> [`infrastructure/lxc/chromecast-bridge/README.md`](../../../lxc/chromecast-bridge/README.md)
+> for the technical reference). Kept for historical reference only.
 
 # How-To Guide: Chromecast to Sonos Bridge
 
