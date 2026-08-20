@@ -1,6 +1,6 @@
 # How-To Guide: Chromecast to Sonos Bridge
 
-A step-by-step guide to stream audio from any Google Cast app to Sonos speakers with near-instant latency, running as a Linux container (LXC) on a Proxmox VE host. This guide assumes basic homelab knowledge (SSH, a working Proxmox host, ideally a Home Assistant instance) but explains every step along the way.
+A step-by-step guide to stream audio from any Google Cast app to Sonos speakers, running as a Linux container (LXC) on a Proxmox VE host — with no noticeable latency difference from using AirPlay 2 directly. This guide assumes basic homelab knowledge (SSH, a working Proxmox host, ideally a Home Assistant instance) but explains every step along the way.
 
 **Time estimate:** 2-3 hours (excluding shipping time for hardware)
 **Difficulty:** Intermediate
@@ -487,4 +487,4 @@ Before trusting this day-to-day, run it for a couple of hours under real use —
 
 ---
 
-**You're done!** Your Chromecast audio now streams to your speakers with near-instant latency, running as a container on infrastructure you already have — no dedicated single-board computer needed, and (if you set up steps 11-12) it only runs while you're actually casting.
+**You're done!** Your Chromecast audio now streams to your speakers with no noticeable latency difference from using AirPlay 2 directly, running as a container on infrastructure you already have — no dedicated single-board computer needed, and (if you set up steps 11-12) it only runs while you're actually casting.

@@ -5,7 +5,7 @@ Step-by-step guides for homelab and self-hosted projects. Written to be beginner
 ## Guides
 
 ### [Chromecast to Sonos Bridge](chromecast-to-sonos-bridge/)
-Stream audio from any Google Cast app (YouTube Music, Jellyfin, AudioBookShelf, etc.) to Sonos speakers with near-instant latency -- for about EUR 53 in hardware.
+Stream audio from any Google Cast app (YouTube Music, Jellyfin, AudioBookShelf, etc.) to Sonos speakers, with no noticeable latency difference from using AirPlay 2 directly -- for about EUR 53 in hardware.
 
 | Document | Description |
 |----------|-------------|
